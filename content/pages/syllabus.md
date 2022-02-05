@@ -54,17 +54,206 @@ Summary of Methodological Topics
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| LEC # | TOPICS | LECTURERS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Racial Discrimination | David Autor |  |
-| 2 | Public Health and Persuasion | Esther Duflo |  |
-| 3 | Incentives, Reciprocity and Cooperation | David Autor | Read 5 of 13 assigned example papers and 2 paragraphs on each |
-| 4 | Gender Differences in Economic Environments: Leadership, Competition, Politics | Esther Duflo | Memo describing research topic of interest, including brief literature review |
-| 5 | Intrinsic Motivation and Fairness | David Autor | Research proposal memo: Question, research design and further literature review as relevant. Complete MIT Human Subjects test  {{< br >}}  {{< br >}}First version of Couhes application due 3 days after Lec #5 |
-| 6 | Improving Educational Quality | Esther Duflo | Final version of Couhes application due - This must be submitted to Couhes 2 days after Lec #6 or you will receive no credit for 14.11 (because you cannot perform an experiment). |
-| 7 | Monitoring, Deception and Corruption | David Autor |  |
-| 8 | Learning and Social Effects | Esther Duflo | Final research design due |
-| 9 | Commitment, Self-control and Savings | Esther Duflo |  |
-| 10 | Housing Experiments and Neighborhood Effects | David Autor | Memo summarizing and presenting initial analysis of your experimental results |
-| 11 | Voting | Esther Duflo |  |
-| 12 | Juries, Advocacy and Bias | David Autor | Final project due 2 days after Lec #12
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Racial Discrimination
+{{< tdclose >}}
+{{< tdopen >}}
+David Autor
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Public Health and Persuasion
+{{< tdclose >}}
+{{< tdopen >}}
+Esther Duflo
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Incentives, Reciprocity and Cooperation
+{{< tdclose >}}
+{{< tdopen >}}
+David Autor
+{{< tdclose >}}
+{{< tdopen >}}
+Read 5 of 13 assigned example papers and 2 paragraphs on each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Gender Differences in Economic Environments: Leadership, Competition, Politics
+{{< tdclose >}}
+{{< tdopen >}}
+Esther Duflo
+{{< tdclose >}}
+{{< tdopen >}}
+Memo describing research topic of interest, including brief literature review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Intrinsic Motivation and Fairness
+{{< tdclose >}}
+{{< tdopen >}}
+David Autor
+{{< tdclose >}}
+{{< tdopen >}}
+Research proposal memo: Question, research design and further literature review as relevant. Complete MIT Human Subjects test  
+  
+First version of Couhes application due 3 days after Lec #5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Improving Educational Quality
+{{< tdclose >}}
+{{< tdopen >}}
+Esther Duflo
+{{< tdclose >}}
+{{< tdopen >}}
+Final version of Couhes application due - This must be submitted to Couhes 2 days after Lec #6 or you will receive no credit for 14.11 (because you cannot perform an experiment).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Monitoring, Deception and Corruption
+{{< tdclose >}}
+{{< tdopen >}}
+David Autor
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Learning and Social Effects
+{{< tdclose >}}
+{{< tdopen >}}
+Esther Duflo
+{{< tdclose >}}
+{{< tdopen >}}
+Final research design due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Commitment, Self-control and Savings
+{{< tdclose >}}
+{{< tdopen >}}
+Esther Duflo
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Housing Experiments and Neighborhood Effects
+{{< tdclose >}}
+{{< tdopen >}}
+David Autor
+{{< tdclose >}}
+{{< tdopen >}}
+Memo summarizing and presenting initial analysis of your experimental results
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Voting
+{{< tdclose >}}
+{{< tdopen >}}
+Esther Duflo
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Juries, Advocacy and Bias
+{{< tdclose >}}
+{{< tdopen >}}
+David Autor
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due 2 days after Lec #12
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
