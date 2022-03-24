@@ -25,7 +25,7 @@ LECTURERS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Racial Discrimination (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec1))
+Racial Discrimination ([PDF]({{< baseurl >}}/resources/lec1))
 {{< tdclose >}}
 {{< tdopen >}}
 David Autor
@@ -37,7 +37,7 @@ David Autor
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Public Health and Persuasion (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec2))
+Public Health and Persuasion ([PDF]({{< baseurl >}}/resources/lec2))
 {{< tdclose >}}
 {{< tdopen >}}
 Esther Duflo
@@ -49,7 +49,7 @@ Esther Duflo
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Incentives, Reciprocity and Cooperation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec3))
+Incentives, Reciprocity and Cooperation ([PDF]({{< baseurl >}}/resources/lec3))
 {{< tdclose >}}
 {{< tdopen >}}
 David Autor
@@ -61,7 +61,7 @@ David Autor
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Gender Differences in Economic Environments: Leadership, Competition, Politics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec4))
+Gender Differences in Economic Environments: Leadership, Competition, Politics ([PDF]({{< baseurl >}}/resources/lec4))
 {{< tdclose >}}
 {{< tdopen >}}
 Esther Duflo
@@ -73,7 +73,7 @@ Esther Duflo
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Intrinsic Motivation and Fairness (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec5))
+Intrinsic Motivation and Fairness ([PDF]({{< baseurl >}}/resources/lec5))
 {{< tdclose >}}
 {{< tdopen >}}
 David Autor
@@ -85,7 +85,7 @@ David Autor
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Improving Educational Quality (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec6))
+Improving Educational Quality ([PDF]({{< baseurl >}}/resources/lec6))
 {{< tdclose >}}
 {{< tdopen >}}
 Esther Duflo
@@ -97,7 +97,7 @@ Esther Duflo
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Monitoring, Deception and Corruption (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec7))
+Monitoring, Deception and Corruption ([PDF]({{< baseurl >}}/resources/lec7))
 {{< tdclose >}}
 {{< tdopen >}}
 David Autor
@@ -109,7 +109,7 @@ David Autor
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Learning and Social Effects (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec8))
+Learning and Social Effects ([PDF]({{< baseurl >}}/resources/lec8))
 {{< tdclose >}}
 {{< tdopen >}}
 Esther Duflo
@@ -121,7 +121,7 @@ Esther Duflo
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Commitment, Self-control and Savings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec9))
+Commitment, Self-control and Savings ([PDF]({{< baseurl >}}/resources/lec9))
 {{< tdclose >}}
 {{< tdopen >}}
 Esther Duflo
@@ -145,7 +145,7 @@ David Autor
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Voting (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec11))
+Voting ([PDF]({{< baseurl >}}/resources/lec11))
 {{< tdclose >}}
 {{< tdopen >}}
 Esther Duflo
@@ -157,7 +157,7 @@ Esther Duflo
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Juries, Advocacy and Bias (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec12))
+Juries, Advocacy and Bias ([PDF]({{< baseurl >}}/resources/lec12))
 {{< tdclose >}}
 {{< tdopen >}}
 David Autor
